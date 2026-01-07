@@ -33,22 +33,23 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,sql" />
 </p>
 
 ### 🧩 Backend & Frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,django,nodejs,react,nextjs" />
 </p>
 
 ### 🗄 Databases & Messaging
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,kafka" />
 </p>
 
 ### ☁️ Cloud & DevOps
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,linux" />
 </p>
 
